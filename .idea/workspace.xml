@@ -2,8 +2,277 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36aa8ec3-93ff-46e6-ad50-4715b5c77548" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/adler32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/cfb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/codepage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/printj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/ssf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/adler32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/bin/adler32.njs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adler-32/types/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/bin/cfb.njs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/cfb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/dist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/dist/xlscfb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cfb/xlscfb.flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bin/codepage.njs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10000.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10003.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10004.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10005.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10006.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10007.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10008.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10010.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10017.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10021.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10029.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10079.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10081.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/10082.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1010.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1026.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1047.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1132.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1140.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1141.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1142.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1143.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1144.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1145.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1146.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1147.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1148.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1149.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1250.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1251.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1252.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1253.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1254.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1255.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1257.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1258.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/1361.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20000.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20003.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20004.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20005.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20105.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20106.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20107.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20108.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20261.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20269.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20273.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20277.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20278.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20280.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20284.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20285.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20290.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20297.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20420.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20423.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20424.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20833.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20838.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20866.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20871.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20880.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20905.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20924.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20932.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20936.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/20949.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/21025.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/21027.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/21866.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28591.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28592.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28593.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28594.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28595.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28596.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28597.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28598.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28599.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28600.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28601.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28603.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28604.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28605.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/28606.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/29001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/37.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/38598.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/437.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/47451.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/500.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/50220.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/50221.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/50222.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/50225.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/50227.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/51932.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/51936.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/51949.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/52936.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/54936.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57003.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57004.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57005.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57006.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57007.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57008.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57009.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57010.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/57011.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/620.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/708.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/720.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/737.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/775.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/808.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/850.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/852.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/855.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/857.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/858.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/860.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/861.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/862.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/863.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/864.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/865.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/866.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/869.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/870.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/872.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/874.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/875.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/895.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/932.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/936.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/949.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/bits/950.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/cptable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/cputils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/dist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/dist/cpexcel.full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/dist/cputils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/dist/sbcs.full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/node_modules/commander/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/node_modules/commander/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/node_modules/commander/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/node_modules/commander/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/node_modules/commander/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/node_modules/commander/typings/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codepage/types/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/bin/crc32.njs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/crc32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crc-32/types/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit-on-epipe/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit-on-epipe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit-on-epipe/exit-on-epipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit-on-epipe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/dist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/dist/frac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/dist/frac.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/dist/frac.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/frac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/frac/types/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/bin/printj.njs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/dist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/dist/printj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/dist/printj.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/dist/printj.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/printj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/printj/types/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/bin/ssf.njs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/shim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/ssf.flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/ssf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ssf/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/bin/xlsx.njs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/cpexcel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/shim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.core.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.core.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.extendscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.full.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/formats.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/formats.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/legend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/xlsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xlsx/xlsxworker.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,53 +291,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1033">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="309">
+              <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Output/enUS.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="502" column="20" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="507" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Output/idJSON.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Output/jaJP.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="507" column="31" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="507" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/Output/zhCN.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Output/idJSON.category.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-end-column="1475" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Output/idJSON.color.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-end-column="2804" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Output/idJSON.occasion.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="45" lean-forward="true" selection-end-column="547" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Output/idJSON.style.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-end-column="1014" />
+            <state relative-caret-position="132">
+              <caret line="493" column="31" lean-forward="true" selection-start-line="493" selection-start-column="31" selection-end-line="493" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -84,12 +340,20 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>console</find>
-      <find>console.log</find>
       <find>workbook</find>
       <find>zh</find>
       <find>category</find>
       <find>manageBR</find>
+      <find>idJSON</find>
+      <find>split</find>
+      <find>console.log</find>
+      <find>console</find>
+      <find>video format</find>
+      <find>VideoFormat</find>
+      <find>ID</find>
+      <find>?</find>
+      <find>conso</find>
+      <find>'s</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,21 +370,27 @@
         <option value="$PROJECT_DIR$/Output/jaJP.occasion.json" />
         <option value="$PROJECT_DIR$/Output/zhCN.category.json" />
         <option value="$PROJECT_DIR$/Output/enUS.category.json" />
+        <option value="$PROJECT_DIR$/Output/zhCN.json" />
+        <option value="$PROJECT_DIR$/Output/enUS.json" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/Output/enUS.js" />
+        <option value="$PROJECT_DIR$/Output/jaJP.js" />
+        <option value="$PROJECT_DIR$/Output/zhCN.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="480" />
-    <option name="y" value="78" />
-    <option name="width" value="1440" />
-    <option name="height" value="899" />
+    <option name="x" value="150" />
+    <option name="y" value="67" />
+    <option name="width" value="1757" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,18 +406,12 @@
             <path>
               <item name="xlsx-to-json" type="b2602c69:ProjectViewProjectNode" />
               <item name="xlsx-to-json" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xlsx-to-json" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xlsx-to-json" type="462c0819:PsiDirectoryNode" />
               <item name="Output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,12 +503,18 @@
       <workItem from="1550543616474" duration="102000" />
       <workItem from="1550547743571" duration="572000" />
       <workItem from="1550549112584" duration="139000" />
-      <workItem from="1550549266865" duration="377000" />
+      <workItem from="1550549266865" duration="519000" />
+      <workItem from="1550822175222" duration="2145000" />
+      <workItem from="1550834923062" duration="17000" />
+      <workItem from="1551930235404" duration="277000" />
+      <workItem from="1551930532406" duration="11000" />
+      <workItem from="1551930739983" duration="6454000" />
+      <workItem from="1551941870389" duration="6032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58085000" />
+    <option name="totallyTimeSpent" value="73163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,15 +526,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="78" width="1440" height="899" extended-state="0" />
+    <frame x="150" y="67" width="1757" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.24594785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.20103687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973376" />
       <window_info id="npm" order="2" side_tool="true" weight="0.32960597" />
       <window_info id="Favorites" order="3" sideWeight="0.50110376" side_tool="true" weight="0.246875" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920793" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -272,7 +542,7 @@
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.36183396" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.37871286" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -283,360 +553,92 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Output/enUS.fittingBg.json">
+    <entry file="file://$PROJECT_DIR$/Output/enUS.menu.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.account.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.adsPage.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.basicSettings.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.color.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.device.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.fittingBg.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.items.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.login.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.manageBR.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.managePic.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.manageStores.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.marketCat.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.menu.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.occasion.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.record.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.style.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.account.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.adsPage.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.basicSettings.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.category.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.color.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.device.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.fittingBg.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.manageBR.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.login.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.managePic.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.items.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.manageStores.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.marketCat.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.menu.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.record.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.style.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.occasion.json" />
+    <entry file="file://$PROJECT_DIR$/Output/idJSON.category.json" />
+    <entry file="file://$PROJECT_DIR$/Output/idJSON.color.json" />
+    <entry file="file://$PROJECT_DIR$/Output/idJSON.occasion.json" />
+    <entry file="file://$PROJECT_DIR$/Output/idJSON.style.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.category.json" />
+    <entry file="file://$PROJECT_DIR$/Output/idJSON.json" />
+    <entry file="file://$PROJECT_DIR$/Output/enUS.category.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJPJSON.json" />
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.json" />
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.json" />
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-end-column="802" />
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.items.json">
+    <entry file="file://$PROJECT_DIR$/Output/enUS.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        <state relative-caret-position="19">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.login.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-end-column="235" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.manageBR.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.managePic.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-end-column="866" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.manageStores.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-end-column="963" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.marketCat.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-end-column="869" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.occasion.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-end-column="690" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.record.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-end-column="507" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.style.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/enUS.menu.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-end-column="796" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.account.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-end-column="482" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.adsPage.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-end-column="424" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.basicSettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.category.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" lean-forward="true" selection-end-column="1686" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.color.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.device.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-end-column="663" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.fittingBg.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-end-column="476" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.items.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-end-column="3354" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.login.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-end-column="204" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.manageBR.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-end-column="583" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.managePic.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.manageStores.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-end-column="772" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.marketCat.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-end-column="651" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.menu.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-end-column="637" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.occasion.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.record.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-end-column="419" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/jaJP.style.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.account.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.adsPage.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-end-column="378" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.basicSettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-end-column="2821" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.category.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-end-column="1481" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.color.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-end-column="3172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.device.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-end-column="631" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.fittingBg.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-end-column="442" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.manageBR.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="547" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.login.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-end-column="174" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.managePic.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-end-column="598" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.items.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-end-column="3197" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.manageStores.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-end-column="747" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.marketCat.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-end-column="612" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.menu.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-end-column="602" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.record.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-end-column="397" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.style.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/zhCN.occasion.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-end-column="546" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Output/idJSON.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1033">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="309">
+          <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Output/idJSON.category.json">
+    <entry file="file://$PROJECT_DIR$/Output/enUS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-end-column="1475" />
+        <state relative-caret-position="261">
+          <caret line="502" column="20" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="507" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Output/idJSON.color.json">
+    <entry file="file://$PROJECT_DIR$/Output/jaJP.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-end-column="2804" />
+        <state relative-caret-position="384">
+          <caret line="507" column="31" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="507" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Output/idJSON.occasion.json">
+    <entry file="file://$PROJECT_DIR$/Output/zhCN.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" lean-forward="true" selection-end-column="547" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/idJSON.style.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-end-column="1014" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="132">
+          <caret line="493" column="31" lean-forward="true" selection-start-line="493" selection-start-column="31" selection-end-line="493" selection-end-column="31" />
         </state>
       </provider>
     </entry>
