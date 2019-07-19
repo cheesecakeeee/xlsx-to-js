@@ -2,8 +2,8 @@ const XLSX = require('xlsx')
 const path = require('path')
 const fs = require('fs')
 // 读取所有表格
-// const workbook = XLSX.readFile('./Input/stylecolor1.xlsx')
-const workbook = XLSX.readFile('./Input/0410.xlsx')
+const workbook = XLSX.readFile('./Input/style.xlsx')
+// const workbook = XLSX.readFile('./Input/0704.xlsx')
 // 读取所有sheet名称数组
 const sheetNames = workbook.SheetNames
 
@@ -19,6 +19,8 @@ let zhHk = {}
 let itIT = {}
 // 法语JSON
 let frFR = {}
+// 西班牙语json
+let es = {}
 // id对应的key
 let idJSON = {}
 
@@ -72,6 +74,7 @@ function generate () {
       zhHk[sheetName+'.'+keys] = item.zhHK
       itIT[sheetName+'.'+keys] = item.itIT
       frFR[sheetName+'.'+keys] = item.frFR
+      es[sheetName+'.'+keys] = item.es
       idJSON[sheetName+'.'+keys] = item.id
     })
     let newfileChinesepath = path.join(__dirname, `/Output/zhCN.js`)
@@ -80,6 +83,7 @@ function generate () {
     let newfileTraditionalChinesepath = path.join(__dirname, `/Output/zhHK.js`)
     let newfileItalianpath = path.join(__dirname, `/Output/itIT.js`)
     let newfileFrenchpath = path.join(__dirname, `/Output/frFR.js`)
+    let newfileSpanishpath = path.join(__dirname, `/Output/es-ES.js`)
     let newfileIdJson = path.join(__dirname, `/Output/idJSON.js`)
     //写入中文为valuejs文件
     fs.writeFileSync(newfileChinesepath, 'export default'+JSON.stringify(zhCN))
@@ -93,6 +97,8 @@ function generate () {
     fs.writeFileSync(newfileItalianpath, 'export default'+JSON.stringify(itIT))
     //写入法语为valuejs文件
     fs.writeFileSync(newfileFrenchpath, 'export default'+JSON.stringify(frFR))
+    // 西班牙语
+    fs.writeFileSync(newfileSpanishpath, 'export default'+JSON.stringify(es))
     //写入id为value的js文件
     fs.writeFileSync(newfileIdJson, 'export default'+JSON.stringify(idJSON))
   })
