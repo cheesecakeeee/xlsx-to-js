@@ -3,7 +3,7 @@ const path = require('path')
 const fs = require('fs')
 // 读取所有表格
 const workbook = XLSX.readFile('./Input/style.xlsx')
-// const workbook = XLSX.readFile('./Input/0704.xlsx')
+// const workbook = XLSX.readFile('./Input/0703.xlsx')
 // 读取所有sheet名称数组
 const sheetNames = workbook.SheetNames
 
@@ -23,6 +23,8 @@ let frFR = {}
 let es = {}
 // id对应的key
 let idJSON = {}
+// 颜色对应的zh （tang lianghao要的数据）
+let zhColor = {}
 
 let NewWorkSheetJson = []
 
@@ -76,6 +78,7 @@ function generate () {
       frFR[sheetName+'.'+keys] = item.frFR
       es[sheetName+'.'+keys] = item.es
       idJSON[sheetName+'.'+keys] = item.id
+      zhColor[sheetName+'.'+keys] = item.zh
     })
     let newfileChinesepath = path.join(__dirname, `/Output/zhCN.js`)
     let newfileEnglishpath = path.join(__dirname, `/Output/enUS.js`)
@@ -85,6 +88,7 @@ function generate () {
     let newfileFrenchpath = path.join(__dirname, `/Output/frFR.js`)
     let newfileSpanishpath = path.join(__dirname, `/Output/es-ES.js`)
     let newfileIdJson = path.join(__dirname, `/Output/idJSON.js`)
+    let newfileZhColor = path.join(__dirname, `/Output/zhColor.js`)
     //写入中文为valuejs文件
     fs.writeFileSync(newfileChinesepath, 'export default'+JSON.stringify(zhCN))
     //写入英文为valuejs文件
@@ -101,6 +105,8 @@ function generate () {
     fs.writeFileSync(newfileSpanishpath, 'export default'+JSON.stringify(es))
     //写入id为value的js文件
     fs.writeFileSync(newfileIdJson, 'export default'+JSON.stringify(idJSON))
+    //写入颜色对应中文的js文件
+    fs.writeFileSync(newfileZhColor, 'export default'+JSON.stringify(zhColor))
   })
 }
 // 生成指定语言版本文件
